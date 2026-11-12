@@ -106,7 +106,7 @@ Los pacientes no asegurados presentaron la mayor demora promedio, con 5,42 días
 
 ### Casos de dengue por municipio
 
-![Casos por municipio](visualizaciones/Cantidad-de-casos-de-dengue-por-municipio.png)
+(visualizaciones/Cantidad-de-casos-de-dengue-por-municipio.png)
 
 ### Relación entre temperatura y casos
 
